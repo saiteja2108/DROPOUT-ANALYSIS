@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="project-image.jpg" alt="Student Dropout Analysis System">
+  <img src="map-removebg-preview.png" alt="Student Dropout Analysis System">
 </p>
 
 # Student Dropout Analysis System
