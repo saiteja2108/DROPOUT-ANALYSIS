@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="DROPOUT-ANALYSIS/sihpage-main
-/map-removebg-preview.png" alt="Student Dropout Analysis System">
-</p>
+
 
 # Student Dropout Analysis System
 
